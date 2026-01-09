@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../assets/style/print.css">
+
 # Tech Fundamentals Mission Worksheet
 
 Your guide: LTS-BOT. Use this sheet to capture notes, fill in blanks, and keep
