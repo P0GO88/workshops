@@ -8,7 +8,7 @@ print_friendly: true
 
 # Tech Fundamentals Mission Worksheet
 
-Your guide: LTS-BOT. Use this sheet to capture notes, fill in blanks, and keep
+Use this sheet to capture notes, fill in blanks, and keep
 track of what you learned today. No perfect answers needed; curiosity wins.
 
 ## 1) Warm-Up Check-In
@@ -31,15 +31,15 @@ Fill in the blanks.
 - Draw a mini folder tree (example: `Tech-Workshop-1/notes.txt`). Label one
   file and one folder.
 
-  Sketch:
+&nbsp;
 
-  __________________________________________________________________________
-  __________________________________________________________________________
+&nbsp; 
 
 - Why do file extensions like `.txt`, `.html`, or `.py` matter?
 
-  __________________________________________________________________________
-  __________________________________________________________________________
+&nbsp;
+
+&nbsp; 
 
 ## 4) Code and Programs
 
