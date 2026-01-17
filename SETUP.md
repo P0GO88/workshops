@@ -112,7 +112,7 @@ Choose your platform below.
 
 ### Installation
 
-Some systems may already have Git installed. Check by running:
+Most modern systems will already have Git installed. Check by running:
 
 ```bash
 git --version
