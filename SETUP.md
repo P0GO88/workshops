@@ -112,18 +112,17 @@ Choose your platform below.
 
 ### Installation
 
-**Linux / WSL:**
+Some systems may already have Git installed. Check by running:
 
 ```bash
-sudo apt install git
+git --version
 ```
 
-**Mac:**
-Git comes pre-installed. If for some reason it's not there, run:
+If you see a version number, skip to the Configuration section below. If not, run the commands for your OS:
 
-```bash
-xcode-select --install
-```
+**Ubuntu Linux / WSL:** `sudo apt install git`
+
+**Mac:** `xcode-select --install`
 
 ### Configuration
 
@@ -141,6 +140,8 @@ git config --global init.defaultBranch main
 git --version
 git config --list
 ```
+
+<div class="page-break-after"></div>
 
 ## Section 3: GitHub Account Setup
 
@@ -196,15 +197,15 @@ Then:
 
 ```bash
 # Replace USERNAME with your GitHub username
-git clone https://github.com/USERNAME/workshops.git
+git clone git@github.com:USERNAME/workshops.git
 cd workshops
 ```
 
-If you have trouble with HTTPS, use SSH:
+If you have trouble with SSH, use HTTPs instead:
 
 ```bash
 # Replace USERNAME with your GitHub username
-git clone git@github.com:USERNAME/workshops.git
+git clone https://github.com/USERNAME/workshops.git
 cd workshops
 ```
 
