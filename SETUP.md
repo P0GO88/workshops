@@ -209,6 +209,22 @@ git clone https://github.com/USERNAME/workshops.git
 cd workshops
 ```
 
+**Updating Your Fork (for returning students):**
+
+If you've already forked and cloned the repository for a previous workshop, you'll want to get any updates before the next session:
+
+1. Go to your fork on GitHub (github.com/YOUR-USERNAME/workshops)
+2. If your fork is behind, you'll see a message like "This branch is X commits behind"
+3. Click the **Sync fork** button
+4. Click **Update branch**
+5. On your computer, open a terminal in your `workshops` folder and run:
+
+   ```bash
+   git pull
+   ```
+
+Now you have the latest workshop materials!
+
 <div class="page-break-after"></div>
 
 ## Section 5: Installing VS Code

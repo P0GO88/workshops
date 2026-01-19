@@ -52,6 +52,7 @@ Before the workshop, students should have:
 * **VS Code** installed and configured
 * **Git** installed and configured
 * **GitHub account** created
+* **Workshop repository forked** - or if you already have a fork from a previous workshop, [sync your fork]({{ site.baseurl }}/SETUP#section-4-cloning-the-workshop-repository) to get the latest materials
 
 See the complete [Setup Guide]({{ site.baseurl }}/SETUP) for step-by-step installation instructions.
 
@@ -63,7 +64,7 @@ See the complete [Setup Guide]({{ site.baseurl }}/SETUP) for step-by-step instal
 
 ### Fallback Path (If Needed)
 
-* GitHub Codespaces (browser-based)
+* GitHub Codespaces (browser-based; be mindful of [free quota](https://docs.github.com/en/billing/concepts/product-billing/github-codespaces#free-quota) limits)
 
 ## 4. 2-Hour Agenda (Minute-by-Minute)
 

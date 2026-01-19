@@ -55,7 +55,7 @@ A student is successful if they can say:
 ### Fallback Path (Guaranteed)
 
 * Browser-based editor:
-  * GitHub Codespaces
+  * GitHub Codespaces (browser-based; be mindful of [free quota](https://docs.github.com/en/billing/concepts/product-billing/github-codespaces#free-quota) limits)
 
 ## 4. 2-Hour Agenda (Minute-by-Minute)
 
